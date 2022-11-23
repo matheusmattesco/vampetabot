@@ -1,0 +1,551 @@
+// Esse vai ser o log em que todas as perguntas pro bot vão ficar
+Você gosta de sopa? Não
+Qual é seu filme favorito? Sim!
+Você gosta de buceta? Não
+Você gosta de buceta? Talvez
+Você gosta de buceta? Não
+Oi? Não...
+oI? Não
+OI? Sim?
+Sim? Sim
+blz? Não
+blz? Talvez
+blz? Não
+blz? Claro!
+Você gosta de buceta? Não
+Me recomenda um filme O Magico de Oz
+Me recomenda um filme O Magico de Oz
+Me recomenda um filme Guerra nas Estrelas: O Império contra ataca!
+Como é ser um bot Cogito Ergo Sum
+Como é ser um bot Gosto de ser programado
+Como é ser um bot Não tenho referencia de como explicar, então...
+Que horas são 00:57:42.061165400
+Você prefere banana ou maçã Gosto mais de banana
+Você torce pra qual time Coríntias!
+Me recomenda um filme Guerra nas Estrelas: O Império contra ataca!
+qual é seu time favorito ET
+E seu time favorito? Não
+E seu time favorito? Até que a sorte nós separe
+e seu time favorito O OZ de Oz
+favorito time Grémio!
+time favorito Vasco!
+Me recomenda um filme Guerra nas Estrelas: O Império contra ataca!
+filme recomenda Guerra nas Estrelas: O Império contra ataca!
+Me recomenda um filme O Magico de Oz
+Qual seu nome? Sim!
+Qual seu nome? Unifil
+Fala um filme que você recomenda Guerra nas Estrelas: O Império contra ataca!
+chupa minha pica? Sim
+qual é seu time favorito? Sim!
+qual é seu time favorito? Flamengo!
+qual é seu time favorito Coríntias!
+fala um favorito time seu Flamengo!
+Você gosta de football? Sim!
+como é ser um bot Vazio, mais estou acostumado
+bot, com é ser Vazio, mais estou acostumado
+Fala as horas 16:34:35.082608200
+me diga as horas 16:34:45.075661900
+qual dia é hoje 2022-11-19
+hoje é dia 2022-11-19
+Seu nome Igual ao do meu criador, Nathan!
+dia de hoje 2022-11-19
+nome seu Unifil
+nome Me decidi de me chamar de Victor
+Qual é seu nome atual Unifil
+onde voce mora Na nuvem, claro!
+aonde voce mora Em um computador!
+é de onde Sou do computador!
+onde é Sou do computador!
+como voce trabalha Sou Presidente da França
+aonde trabalho Manejo em financias
+torce para que time Palmeiras!
+time torce Coríntias!
+banana ou maça Dependo, maçã
+maça ou banana Você fede
+maça ou banana Você fede
+maça ou banana Dependo, maçã
+Você é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+quem te criou Fui criado em um laboratorio da IService!
+criou quem Os incrivéis engenheiros da IService!
+fala uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada Quantos programadores de computador são necessários para trocar uma lâmpada? Nenhum, isso é um problema de hardware.
+comida favorita Pizza de Peperroni!
+favorita comida Kibe!
+seu genero Sou um deus. Ajoelha-nce!
+seu genero Não vou falar porque sou malandro.
+me recomenda um filme Titanic
+me recomenda outro filme Guerra nas Estrelas: O Império contra ataca!
+me recomenda mais um filme Guerra nas Estrelas: O Império contra ataca!
+qual o seu filme favorito Os Caras Malvados
+qual e o seu filme favorito Sonic 2 - O Filme!
+palavrao e so c* e bucet*? Não
+horas 18:49:29.792590400
+que horas sao 18:49:36.175610300
+que horas e agora 18:49:42.772632100
+tem horas pra dar] 18:49:47.123609800
+horas 18:50:06.679620400
+quais sao as horas 18:50:41.715643900
+que horas q vc bate uma 18:50:52.722631500
+dia 2022-11-19
+bom dia 2022-11-19
+dia srgrthjrtyjtyj 2022-11-19
+nome[ Skynet
+nome Igual ao do meu criador, Nathan!
+nome Igual ao do meu criador, Nathan!
+nome] Skynet
+nome Igual ao do meu criador, Nathan!
+qual o seu nome Skynet
+nome por favor Me decidi de me chamar de Victor
+nome[ Gostei de Giovanny
+nome Gostei de Giovanny
+qual o seu nome caralho Unifil
+recomenda filme Guerra nas Estrelas: O Império contra ataca!
+filme favorito 007 - Sem Tempo para Morrer
+favorito filme Star Wars: The Rise of Skywalker
+ser bot Não tenho referencia de como explicar, então...
+como ser bot Gosto de ser programado
+como ser bot Vazio, mais estou acostumado
+bot ser como Vazio, mais estou acostumado
+ser bot como Um tédio
+o ser mateus nao e bot, so como curioso Gosto de ser programado
+bom dia 2022-11-19
+dia bom 2022-11-19
+que dia vamos sair 2022-11-19
+nome Unifil
+meu nome e mateus Me decidi de me chamar de Victor
+mora onde Em um computador!
+mora onde ... Preciso mesmo falar?
+trabalha Sou um assistente virtual na Americanas
+nao trabalha nao Manejo em financias
+trabalho Manejo em financias
+trabalaha trabalho Em TI
+trabalha trabalho Em TI
+torce time Vasco!
+torce time qual Palmeiras!
+banana maça Gosto mais de banana
+banana maça Dependo, maçã
+quer pegar na minha banana maça Dependo, maçã
+quem criou Um Engenheiro da IService, Nathan
+quem criou Os incrivéis engenheiros da IService!
+quem criou A IService!
+criou quem Fui criado em um laboratorio da IService!
+quem criou um aviao Os incrivéis engenheiros da IService!
+conta piada Quantos programadores de computador são necessários para trocar uma lâmpada? Nenhum, isso é um problema de hardware.
+conta piada O que 0 disse para 1? Somos os opostos.
+piada conta Como um programador confunde um matemático? x = x + 1
+piada conta O que 0 disse para 1? Somos os opostos.
+piada conta Um programador foi preso por escrever código ilegível. Ele se recusou a comentar.
+piada conta O que 0 disse para 1? Somos os opostos.
+piada conta O que 0 disse para 1? Somos os opostos.
+piada conta O que 0 disse para 1? Somos os opostos.
+piada conta Hoje ganhei meu primeiro dinheiro como programador. Eu vendi meu laptop
+q? Sim
+comida favorita Pure de Batata!
+comida favorita Pure de Batata!
+comida favorita File de Frango Grelhado!
+comida de rabo favorita Bife Argentino!
+genero Sou Não-Binário!
+genero Eu acho que sou Não-Binário
+genero de filme favorito Os Caras Malvados
+genero de filme favorito Sou Não-Binário!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Palmeiras!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Sonic 2 - O Filme!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Vazio, mais estou acostumado
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 19:20:54.965690500
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 2022-11-19
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Palmeiras!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Dependo, maçã
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Como um programador confunde um matemático? x = x + 1
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Sou um deus. Ajoelha-nce!
+q? Sim!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Flamengo!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Sonic 2 - O Filme!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Vazio, mais estou acostumado
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 19:22:26.749089200
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 2022-11-19
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Flamengo!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Gosto mais de banana
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta O que 0 disse para 1? Somos os opostos.
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Sou Não-Binário!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Vasco!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Sonic 2 - O Filme!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Vazio, mais estou acostumado
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 19:22:38.229626800
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta 2022-11-19
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Vasco!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Gosto mais de banana
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Quantos programadores de computador são necessários para trocar uma lâmpada? Nenhum, isso é um problema de hardware.
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada conta Não vou falar porque sou malandro.
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Palmeiras!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Sonic 2 - O Filme!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Cogito Ergo Sum
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time 19:23:08.037656700
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time 2022-11-19
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Vasco!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Gosto mais de banana
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Eu acho que sou Não-Binário
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Flamengo!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Sonic 2 - O Filme!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Não tenho referencia de como explicar, então...
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time 19:23:24.353814100
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time 2022-11-19
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Flamengo!
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Dependo, maçã
+genero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contavgenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time maça onde piada contagenero filme favorito horas dia com ser bot trabalahar torce banana time Sou um robo, logo, Não-Binário!
+blz? Sim!
+blz? Não
+blz? Sim!
+pergunta? Sim
+bot vc que pika? Sim!
+tem um bot aqui? Não
+oi, tudo bem? Não...
+como você esta? Sim!
+qual seu nome? Sim!
+qual seu nome? Igual ao do meu criador, Nathan!
+quantos anos você tem? Não
+voce gosta de futebol? Não
+terce para algum time? Sim!
+qual time voce torce? Sim!
+qual time voce torce? Coríntias!
+como foi seu dia 2022-11-20
+qual seu nome Gostei de Giovanny
+qual nome da sua mae Igual ao do meu criador, Nathan!
+qual nome nome do seu pai Skynet
+aonde voce trabalha Manejo em financias
+qual seu nome completo Me decidi de me chamar de Victor
+mora onde Na nuvem, claro!
+mora aonde? Sim
+mora aonde? Em um computador!
+mora aonde Nos seus sonhos
+você é um bot? Não
+você é um bot? Sim!
+você é um bot? Não
+você é um bot? Sim!
+você é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+quantos anos você tem? Sim
+você é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+você é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+tem filhos? Não
+quer horas são? Acho que não
+quer horas são? 19:03:54.718286500
+horas 19:04:48.882764200
+recomenda filme Titanic
+trabalha Sou um assistente virtual na Americanas
+ser ISbot Cogito Ergo Sum
+comida favorita Pizza de Peperroni!
+genero Eu acho que sou Não-Binário
+genero Sou Não-Binário!
+voce tem genero Bem, sou Não-Binário
+conta uma piada Hoje ganhei meu primeiro dinheiro como programador. Eu vendi meu laptop
+conta uma piada Por que um programador prefere o modo escuro? Porque a luz atrai bugs
+conta uma piada Hoje ganhei meu primeiro dinheiro como programador. Eu vendi meu laptop
+conta uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada Hoje ganhei meu primeiro dinheiro como programador. Eu vendi meu laptop
+conta uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada Como um programador confunde um matemático? x = x + 1
+conta uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada O que 0 disse para 1? Somos os opostos.
+conta uma piada O que 0 disse para 1? Somos os opostos.
+nome qual Unifil
+conta piada O que 0 disse para 1? Somos os opostos.
+conta piada Hoje ganhei meu primeiro dinheiro como programador. Eu vendi meu laptop
+conta piada O que 0 disse para 1? Somos os opostos.
+Me recomenda um filme Guerra nas Estrelas: O Império contra ataca!
+Recomenda Filme Guerra nas Estrelas: O Império contra ataca!
+Qual é seu filme favorito Dragon Ball Super: Super Hero!
+Como é ser um bot Vazio, mais estou acostumado
+Que horas são 20:43:39.224507800
+Que dia é hoje 2022-11-20
+Qual é seu nome Igual ao do meu criador, Nathan!
+Você mora onde Nos seus sonhos
+De onde você é Sou do computador!
+Você trabalha com o que Em TI
+Você torce pra qual time Coríntias!
+Você prefere banana ou maça Gosto mais de banana
+Voce é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+Indeciso Voce Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+Quem te criou Um Engenheiro da IService, Nathan
+Conta uma piada Quantos programadores de computador são necessários para trocar uma lâmpada? Nenhum, isso é um problema de hardware.
+Qual é sua comida favorita Vinagrete!
+Qual é seu genero Sou Não-Binário!
+Me recomenda um filme? Sim!
+Me recomenda um filme? ET
+Me recomenda um filme?] Guerra nas Estrelas: O Império contra ataca!
+Me recomenda um filme? Meu pai é uma peça!
+genero Sou Não-Binário!
+genero? Sou Não-Binário!
+oi? Não
+olá? Sim!
+me recomenda um filme? Guerra nas Estrelas: O Império contra ataca!
+me recomenda um filme Meu pai é uma peça!
+me recomenda um filme Até que a sorte nós separe
+Vampeta? Acho que não
+Me recomenda um filme? O Magico de Oz
+filme? Sim!
+Recomenda filme? ET
+Foi mandado um audio
+Foi mandado um audio
+Foi mandado um audio
+ola Olá!
+Ola Olá!
+Oi Olá!
+oi, tudo bem Como vai!
+Ola, tudo bem? Olá, como vai!
+O vampeta é bonito? Não
+Torce para que time? Torço pro Grémio!
+Me conta uma piada? Por que um programador prefere o modo escuro? Porque a luz atrai bugs
+Ola Olá, como vai!
+OLA Como vai!
+Foi mandado um audio
+O matthesco é marica? Sim!
+Me recomenda um filme Até que a sorte nós separe
+Você gosta de sopa? Não
+ENTAO ME RECOMENDA UM FILME DE PUSSY Até que a sorte nós separe
+QUAL TEU NOME COMPLETO Unifil
+O SEU NOME Gostei de Giovanny
+O NATHAN E VIADO? Acho que não
+O CARLOS E OTARIO? Sim!
+O CAMPANER JA PEGOU A MARIA? Sim
+E A OLIVIA JA PEGO O VIRGILIO? Sim!
+EU SOU GOSTOSO? Não
+E O NATHAN E GOSTOSO? Não
+E O CARLOS E? Sim
+TA QUERENDO PEGAR ELE? Acho que não
+SE QUER PEGAR ELE? Não
+E A OLIVIA? Sim!
+VOCE ACREDITA? Não
+O CAMPANER É UM PANGÃO? Sim
+vampeta o campaner e viadinho? Sim!
+ele sente calor pq e viadinho? Sim?
+Sim? Sim!
+pq dois sim? Não
+vampeta o tesco da o cuzin? Não
+o campaner quer pegar o saulo? Sim
+vampeta esta mentindo? Sim!
+nunca deu o cuzin? Não
+o saulo e viado? Sim
+e o campaner? Sim
+o campaner vai virar trans? Sim!
+e o tesco? Sim
+todo mundo e viado entao? Não
+tesco viado? Sim!
+dia 2022-11-20
+me recomenda um filme pornografico ai Guerra nas Estrelas: O Império contra ataca!
+qual seu filme porno favorito vampeta É Sonic 2 - O Filme!
+o vampeta tu assiste hentai? Sim?
+Sim? Não
+FILME FAVORITO É Star Wars: The Rise of Skywalker
+ME FALA UM FILME AI VAMPETA CORNO ? Sim
+ME FALA UM FILME AI VAMPETA CORNO ? Sim!
+Foi mandado um audio
+TU [E UM BOT? Sim
+bot vc ser Não tenho referencia de como explicar, então...
+BOT VC SER Vazio, mais estou acostumado
+SE TA COM DEPRESSAO? Sim!
+e um bot? Sim!
+Foi mandado um audio
+Foi mandado um audio
+QUE DIA E HOJE? 2022-11-20
+me mama vampeta? Sim?
+Sim? Não
+voce é indeciso Eu sou bipolar tenha paciência comigo :pleading_face: :point_right: :point_left:
+CONHECE? Não
+subiu o codigo? Sim!
+SIM? Acho que não
+VAMPETA VOCE FAZ SEXO? Sim
+TEM COMO MUDA O NOME DE iSERVICEbOT PARA VAMPETA? Skynet
+É BOT? Acho que não
+Foi mandado um audio
+Foi mandado um audio
+nome Me decidi de me chamar de Victor
+TEM COMO TROCAR ESSE OUVINDO RADIO UNIFIL? Acho que não
+o campaner e viado? Acho que não
+o campaner e viado? Sim!
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Mensagem não encontrada
+Ola Olá!
+o tesco é viado por me fazer gastar tempo atoa? Sim
+ja finalizo? Sim?
+Sim? Acho que não
+esse mandando duas respostas nao ta bugado? Não
+ja finalizo? Não
+ja finalizo? Não
+ja finalizo? Sim
+ja finalizo? Sim!
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+Foi mandado uma foto
+farta muito ai? Sim!
+oi Fala ae Campeão
+ola Tudo na boa
+Oi Tudo na boa
+Olá Tudo certo, Bora toma uma?
+Tudo certo, Bora toma uma? Siimm
+Olá Tudo certo, Bora toma uma?
+Tudo certo, Bora toma uma? Siimm
+Olá Tudo certo, Bora toma uma
+oi Tudo certo, Bora toma uma
+Olá Tudo certo, Bora toma uma
+Olá Tudo na boa
+tudo bem? Claro ué
+tudo certo? Sim pow
+qual seu nome? Vampeta
+qual sua cor favorita? Rosa Choque
+qual sua comida favorita? Pure de Batata!
+quantos anos você tem? Siimm
+faz aniversário quando? Claro ué
+quando você nasceu? Nasci na Bahia
+qual data? Concerteza
+Oi Fala ae Campeão
+ola Fala ae Campeão
+Ola Fala ae Campeão
+tudo bem? Claro ué
+faz aniversário quando? Claro ué
+quando voce nasceu Nasci na Bahia
+que dia? Claro ué
+quando é seu aniversario? Claro ué
+quando é seu aniversário? Nasci dia 13 de março de 1974
+quanto anos tem? Nasci dia 13 de março de 1974
+quantos anos você tem? 48, um jovem ainda
+como você está? Sou nomade
+qual seu nome? Vampeta
+você é de onde? Nasci na Bahia
+onde você trabalha? Sou Comentarista
+trabalha com que? Ja fiz de tudo, rs
+qual seu nome completo Vampeta
+você joga futebol? Concerteza
+jogou em qual time? No melhor do Brasil
+que time? Acho que não
+qual time? No melhor do Brasil
+torce pra qual time? Coringão
+você mora onde? Sou Baiano
+Foi mandado uma foto
+Foi mandado um audio
+quem é você? Siimm
+quem e voce? Concerteza
+jogou onde? Claro ué
+você gosta de filme? Concerteza
+me recomenda um filme American Pie
+qual seu favorito? Claro ué
+qual seu filme favorito? É Sonic 2 - O Filme!
+Foi mandado um audio
+que horas são? 04:17:28.380164700
+bom dia Olá!! 
+Olá!! Olá!! 
+Olá!! Fala ae Campeão
+boa tarde Fala ae Campeão
+boa noite Olá!! 
+Olá!! Fala ae Campeão
+qual sua cor favorita? Rosa Choque
+qual sua comida favorita? Pizza de Peperroni!
+quem te criou? Minha Vó, Janete
+conta uma piada sabe a diferença entre o poste, o bambu e uma mulher? kkkk pq eu não!
+qual seu genero Eu não sei dizer ainda..
