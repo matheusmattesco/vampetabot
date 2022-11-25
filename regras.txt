@@ -1,0 +1,1 @@
+Vou adicionar mais alguns tratamentos nos regex 
