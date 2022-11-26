@@ -5,3 +5,10 @@ Esse projeto se baseia na criação de um ChatBot inspirado no ex-jogador Vampet
 O foco é responder automaticamente perguntas básicas de saudação e do cotidiano, mas também conversa sobre futebol, considerando de forma básica o contexto da conversa.
 
 ChatBot implemntado na plataforma do Discord.
+
+INTEGRANTES:
+Carlos Henrique Miorin Gonçalves
+Mateus Eduardo Campaner
+Matheus Roberto Mattesco
+Olivia Yukari Asai
+Sergio Hiroyuki Inoue Furuta
